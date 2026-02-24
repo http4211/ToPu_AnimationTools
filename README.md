@@ -1,0 +1,2 @@
+# ToPu_KeyframeMathTools
+アニメーションカーブでmayaみたいに数値入力できるようになります。
